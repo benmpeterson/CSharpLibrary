@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_Strings", "0.03_String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_String_Challanges", "0.03_String_Challanges\0.03_String_Challanges.csproj", "{B9CDE295-3C16-4703-B946-E2BC63B6B5E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditional_if", "0.04_Conditional_if\0.04_Conditional_if.csproj", "{B7D329C2-D145-4022-B73B-BB7094B9DE05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B9CDE295-3C16-4703-B946-E2BC63B6B5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9CDE295-3C16-4703-B946-E2BC63B6B5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9CDE295-3C16-4703-B946-E2BC63B6B5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D329C2-D145-4022-B73B-BB7094B9DE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D329C2-D145-4022-B73B-BB7094B9DE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D329C2-D145-4022-B73B-BB7094B9DE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D329C2-D145-4022-B73B-BB7094B9DE05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
