@@ -1,0 +1,6 @@
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_String_Challanges\bin\Debug\0.03_String_Challanges.exe.config
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_String_Challanges\bin\Debug\0.03_String_Challanges.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_String_Challanges\bin\Debug\0.03_String_Challanges.pdb
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_String_Challanges\obj\Debug\0.03_String_Challanges.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_String_Challanges\obj\Debug\0.03_String_Challanges.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_String_Challanges\obj\Debug\0.03_String_Challanges.pdb

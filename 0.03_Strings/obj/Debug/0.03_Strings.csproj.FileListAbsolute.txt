@@ -1,0 +1,5 @@
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.exe.config
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.pdb
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.pdb
