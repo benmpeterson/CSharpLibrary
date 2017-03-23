@@ -26,6 +26,7 @@ namespace _0._06_Methods_Challenge
             movie1.Genre = "Comedy";
             movie1.Name = "Ted";
             movie1.Rating = 4.5f;
+            movie1.TotalMinutes = 147;
 
             Netflix movie2 = new Netflix();
             movie2.Genre = "Sci-Fi";
@@ -45,8 +46,13 @@ namespace _0._06_Methods_Challenge
             movie2.GetSuggestion();
             movie3.GetSuggestion();
 
-            movie3.PayBill();
-            Console.WriteLine(movie3.PayBill());
+            movie1.ShowRuntime();
+            Console.WriteLine(movie1.ShowWhoView("Ben", "10"));
+            //Console.WriteLine(movie1.details);
+
+            Console.WriteLine(movie1.ShowHowManyMinutesLeft(32));
+            
+               
 
             Console.ReadLine();
         }

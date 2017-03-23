@@ -23,8 +23,12 @@ namespace _0._06_Methods_Challenge
         public string Name { get; set; }
         public string Genre { get; set; }
         public float Rating { get; set; }
-        
+        public int TotalMinutes { get; set; }
+
         //METHODS
+        /// <summary>
+        /// Methods with no return.
+        /// </summary>
         public void GetSuggestion()
         {
             if (Rating >= 4.0f)
@@ -34,10 +38,28 @@ namespace _0._06_Methods_Challenge
             else            
                 Console.WriteLine("Watch The Matrix Instead, PLEASE DON'T WATCH CHIPS");            
         }
-
-        public string PayBill()
+        
+        /// <summary>
+        /// Methods that return a value.
+        /// </summary>
+        
+        public int ShowRuntime()
         {
-            return "You just paid your bill";
+            Console.WriteLine(this.TotalMinutes);
+            return this.TotalMinutes;
+        }
+
+       /// METHODS that have parameters
+       public string ShowWhoView(string username, string time)
+        {
+            string details = username + " watched this at " + time;
+            return details;
+        }
+
+        public int ShowHowManyMinutesLeft(int minutesWatched)
+        {
+            int minutesLeft = TotalMinutes - minutesWatched;
+            return minutesLeft;
         }
     }
 }
