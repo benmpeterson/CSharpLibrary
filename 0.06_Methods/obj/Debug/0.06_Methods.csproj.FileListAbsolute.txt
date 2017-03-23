@@ -1,0 +1,6 @@
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods\bin\Debug\0.06_Methods.exe.config
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods\bin\Debug\0.06_Methods.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods\bin\Debug\0.06_Methods.pdb
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods\obj\Debug\0.06_Methods.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods\obj\Debug\0.06_Methods.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods\obj\Debug\0.06_Methods.pdb

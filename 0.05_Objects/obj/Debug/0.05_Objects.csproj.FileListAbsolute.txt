@@ -1,0 +1,6 @@
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe.config
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.pdb
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.pdb

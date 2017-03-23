@@ -1,0 +1,5 @@
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_switch\bin\Debug\0.04_Conditionals_switch.exe.config
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_switch\bin\Debug\0.04_Conditionals_switch.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_switch\bin\Debug\0.04_Conditionals_switch.pdb
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_switch\obj\Debug\0.04_Conditionals_switch.exe
+c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_switch\obj\Debug\0.04_Conditionals_switch.pdb
