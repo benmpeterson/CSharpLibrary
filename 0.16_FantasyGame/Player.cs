@@ -112,8 +112,25 @@ namespace _0._16_FantasyGame
                 b.PowerLevel = 0;
                 Console.WriteLine("{0}'s current power is at {1}%", b.Name, b.PowerLevel);
             }
+        }
 
+        public void Attack2(ShapeShifter d, Dictionary<string, int> dict, Object enemyName)
+        {
+            var singleAttack = dict.ElementAt(rnd.Next(dict.Count));
+            int attackVal = singleAttack.Value;
+            string attackName = singleAttack.Key;
 
+            Console.WriteLine("You attack in self defense with a {0} and it deals {1} damage", attackName, attackVal);
+            d.PowerLevel -= attackVal; //player.CurrentPower = player.CurrentPower - 15
+            if (d.PowerLevel > 0)
+            {
+                Console.WriteLine("{0}'s current power is at {1}%", d.Name, d.PowerLevel);
+            }
+            else
+            {
+                d.PowerLevel = 0;
+                Console.WriteLine("{0}'s current power is at {1}%", d.Name, d.PowerLevel);
+            }
         }
 
         public void PlayerAttack(Boss b)
@@ -121,8 +138,9 @@ namespace _0._16_FantasyGame
             Attack(b, Attacks, this.PlayerName);
         }
 
-
-
-
+        public void PlayerAttack2(ShapeShifter d)
+        {
+            Attack2(d, Attacks, this.PlayerName);
+        }
     }
 }

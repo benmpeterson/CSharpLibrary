@@ -32,6 +32,7 @@ namespace _0._16_FantasyGame
 
             Player player = new Player(name,clan);            
             Boss boss1 = new Boss(100, "Goblin King");
+            ShapeShifter daughter = new ShapeShifter(300, "The ShapeShifter");
             
 
             while (boss1.PowerLevel > 0 && player.CurrentPower > 0)
@@ -48,14 +49,50 @@ namespace _0._16_FantasyGame
                     }
                     if (boss1.PowerLevel <= 0)
                     {
-                        Console.WriteLine("You have defeated the boss");                        
+                        Console.WriteLine("*************" +
+                                          "\n************" +
+                                          "\n***X*****X**" +
+                                          "\n ********** " +
+                                          "\n  ********  ");
+                        Console.WriteLine("You beat the boss and continue to the elevator");                        
                     }
 
 
                 }
-
             }
-            
+
+            Console.WriteLine("The Elevator seems to be working which floor would you like to go to. 1,2 or basement");
+            string elevatorFloor = Console.ReadLine();
+            if (elevatorFloor == "basement")
+            {
+                Console.WriteLine("A small girl is facing the wall, softly whispering. It is too soft to make out");
+                Console.WriteLine("Do you approach her? y/n");
+                string approachAnswer = Console.ReadLine();
+                if (approachAnswer == "y")
+                {
+                    Console.WriteLine("The girl turns to you, you are shocked as you realize it's your daughter");
+                    Console.WriteLine("Hello Daddy, Will you come home soon");
+                    Console.WriteLine("You want to cry, and extend your hand");
+                    Console.ReadLine();
+                    Console.WriteLine("As you touch her shoulder she looks back at you and her eyes are black");
+                    Console.WriteLine("Your daughter suddendly explodes into an alien with a tentacle head");
+                    while (daughter.PowerLevel > 0 && player.CurrentPower > 0)
+                    {
+                        daughter.BossAttack(player);
+                        player.PlayerAttack2(daughter);
+                    }
+                    if (daughter.PowerLevel <= 0)
+                    {
+                        Console.WriteLine("//------------ ______" +
+                                          "\n/-----------------   ) o o o o o o o o o o o o " +
+                                          "\n//------**" +
+                                          "\n//[]");
+                        Console.WriteLine("You beat the boss shapeshift and enter the basement");
+                    }
+
+                }
+            }
+
 
 
 
