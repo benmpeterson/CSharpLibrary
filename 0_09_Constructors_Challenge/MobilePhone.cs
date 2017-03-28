@@ -22,12 +22,21 @@ namespace _0_09_Constructors_Challenge
 
         public string Make { get; set; }
         public int Model { get; set; }
+        public string Name { get; set; }
         
         public MobilePhone(string make, int model)
         {
             this.Make = make;
             this.Model = model;
         }
+
+        public MobilePhone(string make, int model, string name)
+        {
+            this.Make = make;
+            this.Model = model;
+            this.Name = name;
+        }
+
 
         //METHODS
         public void printToScreen()

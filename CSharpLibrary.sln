@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_Inheritence", "0.13_In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_AccessModifiers", "0.14_AccessModifiers\0.14_AccessModifiers.csproj", "{400B2E84-FB02-4628-807E-0E58D04082A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.15_GetterAndSetters", "0.15_GetterAndSetters\0.15_GetterAndSetters.csproj", "{EE95CDC1-EC2D-4B14-908A-2135873C2FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.16_FantasyGame", "0.16_FantasyGame\0.16_FantasyGame.csproj", "{60613765-E579-4625-A890-103393594A63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{400B2E84-FB02-4628-807E-0E58D04082A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{400B2E84-FB02-4628-807E-0E58D04082A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{400B2E84-FB02-4628-807E-0E58D04082A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE95CDC1-EC2D-4B14-908A-2135873C2FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE95CDC1-EC2D-4B14-908A-2135873C2FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE95CDC1-EC2D-4B14-908A-2135873C2FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE95CDC1-EC2D-4B14-908A-2135873C2FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60613765-E579-4625-A890-103393594A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60613765-E579-4625-A890-103393594A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60613765-E579-4625-A890-103393594A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60613765-E579-4625-A890-103393594A63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

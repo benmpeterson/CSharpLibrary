@@ -1,0 +1,9 @@
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\bin\Debug\netcoreapp1.1\0_15_GettersAndSetters.deps.json
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\bin\Debug\netcoreapp1.1\0_15_GettersAndSetters.runtimeconfig.json
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\bin\Debug\netcoreapp1.1\0_15_GettersAndSetters.runtimeconfig.dev.json
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\bin\Debug\netcoreapp1.1\0_15_GettersAndSetters.dll
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\bin\Debug\netcoreapp1.1\0_15_GettersAndSetters.pdb
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\obj\Debug\netcoreapp1.1\0_15_GettersAndSetters.csprojResolveAssemblyReference.cache
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\obj\Debug\netcoreapp1.1\0_15_GettersAndSetters.AssemblyInfo.cs
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\obj\Debug\netcoreapp1.1\0_15_GettersAndSetters.dll
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_15_GettersAndSetters\obj\Debug\netcoreapp1.1\0_15_GettersAndSetters.pdb

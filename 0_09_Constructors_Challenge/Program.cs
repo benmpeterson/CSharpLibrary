@@ -26,9 +26,20 @@ namespace _0_09_Constructors_Challenge
 
             MobilePhone iphone = new MobilePhone("iPhone",5);
             Console.WriteLine("I own an " + iphone.Make + " " + iphone.Model);
-            
-
             iphone.printToScreen();
+
+            MobilePhone nicolesPhone = new MobilePhone("iPhone", 5, "Nicole");
+            MobilePhone drewsPhone = new MobilePhone("iPhone", 7,  "Drew");
+            MobilePhone jenniesPhone = new MobilePhone("Galaxy", 6, "Jennie");
+            MobilePhone zachsPhone = new MobilePhone("iPhone", 5, "Zach");
+            MobilePhone philsPhone = new MobilePhone("Pixel", 1, "Phil");
+
+            Console.WriteLine("{0} has the {1} {2}", nicolesPhone.Name, nicolesPhone.Make, nicolesPhone.Model);
+            Console.WriteLine("{0} has the {1} {2}", drewsPhone.Name, drewsPhone.Make, drewsPhone.Model);
+            Console.WriteLine("{0} has the {1} {2}", jenniesPhone.Name, jenniesPhone.Make, jenniesPhone.Model);
+            Console.WriteLine("{0} has the {1} {2}", zachsPhone.Name, zachsPhone.Make, zachsPhone.Model);
+            Console.WriteLine("{0} has the {1} {2}", philsPhone.Name, philsPhone.Make, philsPhone.Model);
+
 
             Console.ReadLine();
         }

@@ -1,0 +1,6 @@
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_09_Constructors_Challenge\bin\Debug\0_09_Constructors_Challenge.exe.config
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_09_Constructors_Challenge\bin\Debug\0_09_Constructors_Challenge.exe
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_09_Constructors_Challenge\bin\Debug\0_09_Constructors_Challenge.pdb
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_09_Constructors_Challenge\obj\Debug\0_09_Constructors_Challenge.exe
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_09_Constructors_Challenge\obj\Debug\0_09_Constructors_Challenge.pdb
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0_09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.csprojResolveAssemblyReference.cache

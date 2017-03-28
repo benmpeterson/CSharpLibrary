@@ -51,9 +51,24 @@ namespace _0._06_Methods_Challenge
             //Console.WriteLine(movie1.details);
 
             Console.WriteLine(movie1.ShowHowManyMinutesLeft(32));
-            
-               
 
+            string[] movieTitles = new string[] {movie1.Name, movie2.Name, movie3.Name};
+            foreach (string movie in movieTitles)
+            {
+                Console.WriteLine(movie);
+            }
+
+            string[] movieGenre = new string[] { movie1.Genre, movie2.Genre, movie3.Genre };
+            foreach (string movie in movieGenre)
+            {
+                Console.WriteLine(movie);
+            }
+
+            float[] movieRating = new float[] { movie1.Rating, movie2.Rating, movie3.Rating };
+            foreach (int rating in movieRating)
+            {
+                Console.WriteLine(rating);
+            }
             Console.ReadLine();
         }
     }

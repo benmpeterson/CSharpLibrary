@@ -5,7 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace _0._14_AccessModifiers
-{
+{   /******Keyword***************Applicable To***************Meaning******************************************		
+        public 				  Class, Member				No restrictions
+        protected			  Member					Access limited to the class and derived classes
+        private				  Member					Access limited to the class.
+
+        internal              Class, Member				Access limited to the current assembly		
+    protected internal 		  Member					Access limited to current assembly and derived types
+
+**********************************************************************************************************/
     class Car
     {
         //PROPERTIES
@@ -44,12 +52,4 @@ namespace _0._14_AccessModifiers
 }
 
 
-/******Keyword***************Applicable To***************Meaning******************************************		
-        public 				  Class, Member				No restrictions
-        protected			  Member					Access limited to the class and derived classes
-        private				  Member					Access limited to the class.
 
-        internal              Class, Member				Access limited to the current assembly		
-    protected internal 		  Member					Access limited to current assembly and derived types
-
-**********************************************************************************************************/

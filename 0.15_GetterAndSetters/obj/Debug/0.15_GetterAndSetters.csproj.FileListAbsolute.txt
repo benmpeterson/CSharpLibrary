@@ -1,0 +1,6 @@
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.15_GetterAndSetters\bin\Debug\0.15_GetterAndSetters.exe.config
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.15_GetterAndSetters\bin\Debug\0.15_GetterAndSetters.exe
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.15_GetterAndSetters\bin\Debug\0.15_GetterAndSetters.pdb
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.15_GetterAndSetters\obj\Debug\0.15_GetterAndSetters.csprojResolveAssemblyReference.cache
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.15_GetterAndSetters\obj\Debug\0.15_GetterAndSetters.exe
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.15_GetterAndSetters\obj\Debug\0.15_GetterAndSetters.pdb
