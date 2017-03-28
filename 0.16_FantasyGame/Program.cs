@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Speech.Synthesis;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,6 +11,12 @@ namespace _0._16_FantasyGame
     { 
         static void Main(string[] args)
         {
+
+            //SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
+            //talkingConsole.SelectVoiceByHints(VoiceGender.Female, VoiceAge.Teen);
+            //talkingConsole.Speak("HELLO, Hello...Hello?");
+
+
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
             Console.WriteLine("What is your clan name");
@@ -23,22 +30,35 @@ namespace _0._16_FantasyGame
                               "5: Human\n");
             int type = int.Parse(Console.ReadLine());
 
-            Player player = new Player(name,clan);
-            player.ChooseType(type);
-
-            Console.WriteLine(player.ToString());
-
-            //create a new subclass of enemy (can be any name) that has a constructor 
-            //and one method
-            Boss boss1 = new Boss(100, "Goblin King");            
-            boss1.Insults();
-
-             
-
-            Enemy enemy = new Enemy();
+            Player player = new Player(name,clan);            
+            Boss boss1 = new Boss(100, "Goblin King");
             
 
-            enemy.Insults();
+            while (boss1.PowerLevel > 0 && player.CurrentPower > 0)
+            {
+                boss1.Insults();
+                Console.WriteLine("Do you want to fight? y/n");
+                string userAnswer = Console.ReadLine();
+                if (userAnswer == "y")
+                {
+                    while (boss1.PowerLevel > 0 && player.CurrentPower > 0)
+                    {
+                        boss1.BossAttack(player);
+                        player.PlayerAttack(boss1);
+                    }
+                    if (boss1.PowerLevel <= 0)
+                    {
+                        Console.WriteLine("You have defeated the boss");                        
+                    }
+
+
+                }
+
+            }
+            
+
+
+
             Console.ReadLine();
 
         }

@@ -17,6 +17,8 @@ namespace _0._16_FantasyGame
     }
     class Player
     {
+
+        //Constructors
         public Player(string name, string clanName, CharacterType type = CharacterType.HorseMange)
         {
             this.PlayerName = name;
@@ -25,12 +27,24 @@ namespace _0._16_FantasyGame
             this.Type = type;
         }
 
+        //objects
+        public Random rnd = new Random();
+        Dictionary<string, int> Attacks = new Dictionary<string, int>
+            {
+                {"lazor", 20 },
+                {"Grenade",35},
+                {"Punch", 10 },
+                {"Gatlin Gun", 50 }
+            };
+
+        //Properties
         public string PlayerName { get; set; }
         public string Clan { get; set; }
         public int CurrentPower { get; set; }
         public string BattleCry { get; set; }
         public CharacterType Type { get; set; } //refrencing the enum
 
+        
        
 
         public CharacterType ChooseType(int t)
@@ -80,6 +94,32 @@ namespace _0._16_FantasyGame
         //{
         //    Console.WriteLine(BattleCry);
         //}
+
+        public void Attack(Boss b, Dictionary<string, int> dict, Object enemyName)
+        {           
+            var singleAttack = dict.ElementAt(rnd.Next(dict.Count));
+            int attackVal = singleAttack.Value;
+            string attackName = singleAttack.Key;
+
+            Console.WriteLine("You attack in self defense with a {0} and it deals {1} damage", attackName, attackVal);
+            b.PowerLevel-= attackVal; //player.CurrentPower = player.CurrentPower - 15
+            if (b.PowerLevel > 0)
+            {
+                Console.WriteLine("{0}'s current power is at {1}%", b.Name, b.PowerLevel);
+            }
+            else
+            {
+                b.PowerLevel = 0;
+                Console.WriteLine("{0}'s current power is at {1}%", b.Name, b.PowerLevel);
+            }
+
+
+        }
+
+        public void PlayerAttack(Boss b)
+        {
+            Attack(b, Attacks, this.PlayerName);
+        }
 
 
 
