@@ -20,7 +20,7 @@ namespace _0._16_FantasyGame
         public Boss(int currentPower, string bossName)
         {
             this.PowerLevel = 40;
-            this.Name = "Goblin King";
+            this.Name = "Martain Turk";
         }
 
         public override void Insults()
