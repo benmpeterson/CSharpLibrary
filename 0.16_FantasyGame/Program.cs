@@ -87,8 +87,9 @@ namespace _0._16_FantasyGame
                         if (drinkPotion == "y")
                         {                            
                             player.CurrentPower = player.CurrentPower - 10;
+                            Console.WriteLine();
                             Console.WriteLine("AHHHHHHHHHHHHHHHHHHHHHHHHHH!");
-                            Console.WriteLine("The Potion was Poison.\nYour Current Power is now {0}", player.CurrentPower);
+                            Console.WriteLine("The Potion was Poison.\nYour Current Power is now {0}%", player.CurrentPower);
                             Console.ReadLine();
                         }
                         else

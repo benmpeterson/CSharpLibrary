@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Lists\bin\Debug\0.18_Lists.exe.config
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Lists\bin\Debug\0.18_Lists.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Lists\bin\Debug\0.18_Lists.pdb
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Lists\obj\Debug\0.18_Lists.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Lists\obj\Debug\0.18_Lists.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.18_Lists\obj\Debug\0.18_Lists.pdb
