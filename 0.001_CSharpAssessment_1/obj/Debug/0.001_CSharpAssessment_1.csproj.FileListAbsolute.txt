@@ -1,0 +1,6 @@
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.001_CSharpAssessment_1\bin\Debug\0.001_CSharpAssessment_1.exe.config
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.001_CSharpAssessment_1\bin\Debug\0.001_CSharpAssessment_1.exe
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.001_CSharpAssessment_1\bin\Debug\0.001_CSharpAssessment_1.pdb
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.001_CSharpAssessment_1\obj\Debug\0.001_CSharpAssessment_1.csprojResolveAssemblyReference.cache
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.001_CSharpAssessment_1\obj\Debug\0.001_CSharpAssessment_1.exe
+C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.001_CSharpAssessment_1\obj\Debug\0.001_CSharpAssessment_1.pdb

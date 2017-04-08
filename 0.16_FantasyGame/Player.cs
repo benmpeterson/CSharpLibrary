@@ -102,10 +102,12 @@ namespace _0._16_FantasyGame
             string attackName = singleAttack.Key;
 
             Console.WriteLine("You attack in self defense with a {0} and it deals {1} damage", attackName, attackVal);
+            //Console.WriteLine("*******************");
             b.PowerLevel-= attackVal; //player.CurrentPower = player.CurrentPower - 15
             if (b.PowerLevel > 0)
             {
                 Console.WriteLine("{0}'s current power is at {1}%", b.Name, b.PowerLevel);
+                Console.WriteLine("*******************");
             }
             else
             {

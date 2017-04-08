@@ -30,7 +30,9 @@ namespace _0._16_FantasyGame
 
         public void BossAttack(Player p)
         {
+            Console.WriteLine("*******************");
             Attack(p, Attacks, this.Name);
+            
         }
     }
 }

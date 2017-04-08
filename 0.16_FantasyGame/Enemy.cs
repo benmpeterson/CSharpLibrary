@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace _0._16_FantasyGame
@@ -37,18 +38,25 @@ namespace _0._16_FantasyGame
             int attackVal = singleAttack.Value;
             string attackName = singleAttack.Key;
 
-            Console.WriteLine("Enemy is attacking with {0} and deals {1} damage", attackName, attackVal);            
+            Console.WriteLine("Enemy is attacking with {0} and deals {1} damage", attackName, attackVal);
+            //Console.WriteLine("*******************");
             p.CurrentPower -= attackVal; //player.CurrentPower = player.CurrentPower - 15
+
+            int Sleepfor = 1000;
+
             if (p.CurrentPower > 0)
             {
                 Console.WriteLine("{0}'s current power is at {1}%", p.PlayerName, p.CurrentPower);
+                Console.WriteLine("*******************");
+                Thread.Sleep(Sleepfor);
             }
             else
             {
                 p.CurrentPower = 0;
                 Console.WriteLine("{0}'s current power is at {1}%", p.PlayerName, p.CurrentPower);
+                Thread.Sleep(Sleepfor);
             }
-            
+             
         }
 
     }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _0._19_LINQ
 {
-    class Program
+    struct Program
     {
         //Language integrated Query
         //Inumerable - an interatable data structure
@@ -32,6 +32,36 @@ namespace _0._19_LINQ
             {
                 Console.WriteLine("The {0} {1} is a nice used car that costs: {2:C}",bmw.Make, bmw.Model, bmw.Price) ;
             }
+
+
+            //Have user enter highest price and print out all cars lower than that price
+
+            Console.WriteLine("Please Right Your maximum ammount for a car");
+            int customerMaxPrice = Int32.Parse(Console.ReadLine());
+
+            var underMaxPrice = from car in usedCars
+                                where car.Price < customerMaxPrice
+                                select car;
+            //funderMaxPrice
+            //underMaxPrice = underMaxPrice.ToList();
+            //List<string> underMaxPriceList = underMaxPrice.ToList();
+            //
+
+
+
+
+            foreach (var car in underMaxPrice)
+            {
+                Console.WriteLine("{0} {1} costs: {2:C}",
+                    car.Make,
+                    car.Model,
+                    car.Price);
+            }
+
+            Console.WriteLine("***************************************");
+            Console.WriteLine("");
+            Console.WriteLine("");
+
 
 
             //Print out every car under 10,000 dollars

@@ -13,7 +13,7 @@ namespace _0._16_FantasyGame
                 {"Head-butt",5 },
                 {"Mallet",5},
                 {"Bite",10 },
-                {"Running Man", 35 }
+                {"Spear Slash", 35 }
             };
 
         //constructor

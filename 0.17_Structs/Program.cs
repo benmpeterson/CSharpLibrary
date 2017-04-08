@@ -1,105 +1,66 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._17_Structs
+namespace _0._15_Structs
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //Classes and Structs
-            //A class and a sturct defines the template for an object
-            //A classes references a reference type - build a class then build objects 
-            //A struct references a value type -
-            //Reference and value imply memory strategies
-
-            //When to use Structs
-            //Insatances of type are small
-            //commonly embedded in another type
-            //The values don't change(immutable)
-
-            AddressBookEntry Ben = new AddressBookEntry()
+            AddressBookEntry Paul = new AddressBookEntry()
             {
-                Adress = "test",
-                City = "test1",
+                Address = "123 Coder pl",
+                City = "WestField",
                 State = "IN",
-                Zip = "46550",
-
+                Zip = "44056",
+                FirstName = "Paul",
+                LastName = "O'Connor",
+                Age = 40
             };
 
-            AddressBookEntry Zach = new AddressBookEntry()
-            {
-                Adress = "indy",
-                City = "Indy1",
-                State = "IN",
-                Zip = "46550",
-                FirstName = "Zach",
-                LastName = "Himes",
-                Age = "25",
-            };
+            AddressBookEntry James = new AddressBookEntry("James", "Handshoe", 39);
 
-            AddressBookEntry Larry = new AddressBookEntry()
-            {
-                Adress = "Fort Wayne",
-                City = "Fort Wayne",
-                State = "IN",
-                Zip = "46802",
-            };
+            AddressBookEntry Kenn = new AddressBookEntry("Kenn", "Pascascio", 33);
 
-            Console.WriteLine(Ben.Zip);
+            // Create 3 more Address book entries
+            // Create a constructor in the AddressBook Entry where a user has to pass in 3 parameters: FirstName, LastName, Age
+            Console.WriteLine(Paul.GetAddress());
             Console.ReadLine();
-
-            //create 3 more Address book entries
-            //create a constructor in the AddressBook Entry where a user has to pass in 3 parmeters: FirstName, LastName, Age
-
-
         }
-
-
-
 
         struct AddressBookEntry
         {
-            //public string FirstName;
-            //public string LastName;
-            //public string Age;
-            //public string Adress;
-            //public string City;
-            //public string State;
-            //public string Zip;
+            public string FirstName;
+            public string LastName;
+            public int Age;
+            public string Address;
+            public string City;
+            public string State;
+            public string Zip;
 
-            public string FirstName { get; set; }
-            public string LastName { get; set; }
-            public string Age { get; set; }
-            public string City { get; set; }
-            public string State { get; set; }
-            public string Zip { get; set; }
 
+            // We set default values to the constructor because using a struct needs all of its fields && properties to be 
+            // present in the constuctor to be valid.
+
+            public AddressBookEntry(string firstName, string lastName, int age)
+            {
+                this.FirstName = firstName;
+                this.LastName = lastName;
+                this.Age = age;
+                this.Address = "1234 Visionary Way";
+                this.State = "IN";
+                this.City = "Fishers";
+                this.Zip = "44667";
+            }
 
             public string GetAddress()
             {
-                return $"Address: {Adress}\nCit: {City}\nState: {State}\nZi[{Zip}";
+                return $"Address: {Address}\nCity: {City}\nState: {State}\nZip: {Zip}";
             }
-
-            public AddressBookEntry()
-            {
-
-            }
-
-            //public AddressBookEntry(string firstName, string lastName, string age)
-            //{
-            //    this.FirstName = firstName;
-            //    this.LastName = lastName;
-            //    this.Age = age;
-            //}
-
-
         }
-        
-
-
     }
 }
