@@ -1,0 +1,6 @@
+C:\Users\Ben\dev\CSharpLibrary\0.19_LINQ_PluralsightCourse_Introduction\bin\Debug\0.19_LINQ_PluralsightCourse_Introduction.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.19_LINQ_PluralsightCourse_Introduction\bin\Debug\0.19_LINQ_PluralsightCourse_Introduction.exe
+C:\Users\Ben\dev\CSharpLibrary\0.19_LINQ_PluralsightCourse_Introduction\bin\Debug\0.19_LINQ_PluralsightCourse_Introduction.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.19_LINQ_PluralsightCourse_Introduction\obj\Debug\0.19_LINQ_PluralsightCourse_Introduction.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.19_LINQ_PluralsightCourse_Introduction\obj\Debug\0.19_LINQ_PluralsightCourse_Introduction.exe
+C:\Users\Ben\dev\CSharpLibrary\0.19_LINQ_PluralsightCourse_Introduction\obj\Debug\0.19_LINQ_PluralsightCourse_Introduction.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.10
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.01_Intro", "0.01_Intro\0.01_Intro.csproj", "{9347AAA5-8FD0-4957-99E5-459354C406F9}"
 EndProject
@@ -88,6 +88,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_Collections_Sets_PluralsightCourse", "0.12_Collections_Sets_PluralsightCourse\0.12_Collections_Sets_PluralsightCourse.csproj", "{73A5614B-714C-407B-BCC3-E4B8FC569E14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_Enumerators_PluralsightCourse", "0.13_Enumerators_PluralsightCourse\0.13_Enumerators_PluralsightCourse.csproj", "{F2F2882F-B399-4562-B06F-FBD95E2538EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.19_LINQ_PluralsightCourse_Introduction", "0.19_LINQ_PluralsightCourse_Introduction\0.19_LINQ_PluralsightCourse_Introduction.csproj", "{41AA06DF-2801-4D12-88A2-DEF1A39F99CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.19_LINQ_PluralsightCourse_Features", "0.19_LINQ_PluralsightCourse_Features\0.19_LINQ_PluralsightCourse_Features.csproj", "{B6A14423-28D1-4DC0-AB27-D536C67B12D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.19_LINQ_PluralsightCourse_Queries", "0.19_LINQ_PluralsightCourse_Queries\0.19_LINQ_PluralsightCourse_Queries.csproj", "{84697DCA-8F6C-4477-8132-7E4D302140AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +273,18 @@ Global
 		{F2F2882F-B399-4562-B06F-FBD95E2538EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F2882F-B399-4562-B06F-FBD95E2538EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F2882F-B399-4562-B06F-FBD95E2538EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AA06DF-2801-4D12-88A2-DEF1A39F99CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AA06DF-2801-4D12-88A2-DEF1A39F99CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AA06DF-2801-4D12-88A2-DEF1A39F99CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AA06DF-2801-4D12-88A2-DEF1A39F99CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A14423-28D1-4DC0-AB27-D536C67B12D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A14423-28D1-4DC0-AB27-D536C67B12D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A14423-28D1-4DC0-AB27-D536C67B12D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A14423-28D1-4DC0-AB27-D536C67B12D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84697DCA-8F6C-4477-8132-7E4D302140AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84697DCA-8F6C-4477-8132-7E4D302140AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84697DCA-8F6C-4477-8132-7E4D302140AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84697DCA-8F6C-4477-8132-7E4D302140AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
