@@ -1,0 +1,6 @@
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_LinkList_PluralsightCourse\bin\Debug\0.20_Generics_LinkList_PluralsightCourse.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_LinkList_PluralsightCourse\bin\Debug\0.20_Generics_LinkList_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_LinkList_PluralsightCourse\bin\Debug\0.20_Generics_LinkList_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_LinkList_PluralsightCourse\obj\Debug\0.20_Generics_LinkList_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_LinkList_PluralsightCourse\obj\Debug\0.20_Generics_LinkList_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_LinkList_PluralsightCourse\obj\Debug\0.20_Generics_LinkList_PluralsightCourse.csprojResolveAssemblyReference.cache

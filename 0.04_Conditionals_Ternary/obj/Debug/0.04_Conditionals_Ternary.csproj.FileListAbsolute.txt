@@ -4,3 +4,9 @@ c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditiona
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Ternary\obj\Debug\0.04_Conditionals_Ternary.csprojResolveAssemblyReference.cache
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Ternary\obj\Debug\0.04_Conditionals_Ternary.exe
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Ternary\obj\Debug\0.04_Conditionals_Ternary.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditionals_Ternary\bin\Debug\0.04_Conditionals_Ternary.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditionals_Ternary\bin\Debug\0.04_Conditionals_Ternary.exe
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditionals_Ternary\bin\Debug\0.04_Conditionals_Ternary.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditionals_Ternary\obj\Debug\0.04_Conditionals_Ternary.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditionals_Ternary\obj\Debug\0.04_Conditionals_Ternary.exe
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditionals_Ternary\obj\Debug\0.04_Conditionals_Ternary.pdb

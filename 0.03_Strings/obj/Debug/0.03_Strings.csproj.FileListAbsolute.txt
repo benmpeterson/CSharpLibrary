@@ -3,3 +3,9 @@ c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\bi
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.pdb
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.exe
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.exe
+C:\Users\Ben\dev\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.exe
+C:\Users\Ben\dev\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.pdb

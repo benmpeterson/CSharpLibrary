@@ -1,0 +1,5 @@
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Interfaces_PluralsightCourse\bin\Debug\0.12_Collections_Interfaces_PluralsightCourse.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Interfaces_PluralsightCourse\bin\Debug\0.12_Collections_Interfaces_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Interfaces_PluralsightCourse\bin\Debug\0.12_Collections_Interfaces_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Interfaces_PluralsightCourse\obj\Debug\0.12_Collections_Interfaces_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Interfaces_PluralsightCourse\obj\Debug\0.12_Collections_Interfaces_PluralsightCourse.pdb

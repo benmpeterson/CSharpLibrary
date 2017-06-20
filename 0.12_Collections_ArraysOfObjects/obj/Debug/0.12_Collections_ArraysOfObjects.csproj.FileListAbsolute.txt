@@ -4,3 +4,9 @@ C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collection
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_ArraysOfObjects\obj\Debug\0.12_Collections_ArraysOfObjects.csprojResolveAssemblyReference.cache
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_ArraysOfObjects\obj\Debug\0.12_Collections_ArraysOfObjects.exe
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_ArraysOfObjects\obj\Debug\0.12_Collections_ArraysOfObjects.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_ArraysOfObjects\bin\Debug\0.12_Collections_ArraysOfObjects.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_ArraysOfObjects\bin\Debug\0.12_Collections_ArraysOfObjects.exe
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_ArraysOfObjects\bin\Debug\0.12_Collections_ArraysOfObjects.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_ArraysOfObjects\obj\Debug\0.12_Collections_ArraysOfObjects.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_ArraysOfObjects\obj\Debug\0.12_Collections_ArraysOfObjects.exe
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_ArraysOfObjects\obj\Debug\0.12_Collections_ArraysOfObjects.pdb

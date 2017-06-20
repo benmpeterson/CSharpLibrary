@@ -3,3 +3,8 @@ c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Ch
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenge\bin\Debug\0.05_Objects_Challenge.pdb
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenge\obj\Debug\0.05_Objects_Challenge.exe
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenge\obj\Debug\0.05_Objects_Challenge.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects_Challenge\bin\Debug\0.05_Objects_Challenge.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects_Challenge\bin\Debug\0.05_Objects_Challenge.exe
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects_Challenge\bin\Debug\0.05_Objects_Challenge.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects_Challenge\obj\Debug\0.05_Objects_Challenge.exe
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects_Challenge\obj\Debug\0.05_Objects_Challenge.pdb

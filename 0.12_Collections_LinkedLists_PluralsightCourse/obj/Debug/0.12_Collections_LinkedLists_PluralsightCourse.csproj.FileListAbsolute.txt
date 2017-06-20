@@ -4,3 +4,9 @@ C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collection
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\obj\Debug\0.12_Collections_LinkedLists_PluralsightCourse.csprojResolveAssemblyReference.cache
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\obj\Debug\0.12_Collections_LinkedLists_PluralsightCourse.exe
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\obj\Debug\0.12_Collections_LinkedLists_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\bin\Debug\0.12_Collections_LinkedLists_PluralsightCourse.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\bin\Debug\0.12_Collections_LinkedLists_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\bin\Debug\0.12_Collections_LinkedLists_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\obj\Debug\0.12_Collections_LinkedLists_PluralsightCourse.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\obj\Debug\0.12_Collections_LinkedLists_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_LinkedLists_PluralsightCourse\obj\Debug\0.12_Collections_LinkedLists_PluralsightCourse.pdb

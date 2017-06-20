@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.01_Intro", "0.01_Intro\0.01_Intro.csproj", "{9347AAA5-8FD0-4957-99E5-459354C406F9}"
 EndProject
@@ -94,6 +94,18 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.19_LINQ_PluralsightCourse_Features", "0.19_LINQ_PluralsightCourse_Features\0.19_LINQ_PluralsightCourse_Features.csproj", "{B6A14423-28D1-4DC0-AB27-D536C67B12D5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.19_LINQ_PluralsightCourse_Queries", "0.19_LINQ_PluralsightCourse_Queries\0.19_LINQ_PluralsightCourse_Queries.csproj", "{84697DCA-8F6C-4477-8132-7E4D302140AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.20_Generics_List_PluralsightCourse", "0.20_Generics_List_PluralsightCourse\0.20_Generics_List_PluralsightCourse.csproj", "{0CDBE1E0-6D82-4607-8A24-B648D8A8E24E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.20_Generics_Queue_PluralsightCourse", "0.20_Generics_Queue_PluralsightCourse\0.20_Generics_Queue_PluralsightCourse.csproj", "{E19AA00F-8B09-4D47-8323-3C62FB68A375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.20_Generics_Stack_PluralsightCourse", "0.20_Generics_Stack_PluralsightCourse\0.20_Generics_Stack_PluralsightCourse.csproj", "{79DC43F9-F28B-4A00-ADD2-C8C1BEEDCA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.20_Generics_HashSets_PluralsightCourse", "0.20_Generics_HashSets_PluralsightCourse\0.20_Generics_HashSets_PluralsightCourse.csproj", "{E5A2D66E-C30F-41B7-B877-81E81662D80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.20_Generics_LinkList_PluralsightCourse", "0.20_Generics_LinkList_PluralsightCourse\0.20_Generics_LinkList_PluralsightCourse.csproj", "{86AC67F0-0E7E-4A82-9167-83BE4276F453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.20_Generics_Dictionaries_PluralsightCourse", "0.20_Generics_Dictionaries_PluralsightCourse\0.20_Generics_Dictionaries_PluralsightCourse.csproj", "{E340A1CA-5293-4DCA-9534-97EEDA54DF27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +297,30 @@ Global
 		{84697DCA-8F6C-4477-8132-7E4D302140AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84697DCA-8F6C-4477-8132-7E4D302140AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84697DCA-8F6C-4477-8132-7E4D302140AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDBE1E0-6D82-4607-8A24-B648D8A8E24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDBE1E0-6D82-4607-8A24-B648D8A8E24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDBE1E0-6D82-4607-8A24-B648D8A8E24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDBE1E0-6D82-4607-8A24-B648D8A8E24E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19AA00F-8B09-4D47-8323-3C62FB68A375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19AA00F-8B09-4D47-8323-3C62FB68A375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19AA00F-8B09-4D47-8323-3C62FB68A375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19AA00F-8B09-4D47-8323-3C62FB68A375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DC43F9-F28B-4A00-ADD2-C8C1BEEDCA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DC43F9-F28B-4A00-ADD2-C8C1BEEDCA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DC43F9-F28B-4A00-ADD2-C8C1BEEDCA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DC43F9-F28B-4A00-ADD2-C8C1BEEDCA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A2D66E-C30F-41B7-B877-81E81662D80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A2D66E-C30F-41B7-B877-81E81662D80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A2D66E-C30F-41B7-B877-81E81662D80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A2D66E-C30F-41B7-B877-81E81662D80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AC67F0-0E7E-4A82-9167-83BE4276F453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AC67F0-0E7E-4A82-9167-83BE4276F453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AC67F0-0E7E-4A82-9167-83BE4276F453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AC67F0-0E7E-4A82-9167-83BE4276F453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E340A1CA-5293-4DCA-9534-97EEDA54DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E340A1CA-5293-4DCA-9534-97EEDA54DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E340A1CA-5293-4DCA-9534-97EEDA54DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E340A1CA-5293-4DCA-9534-97EEDA54DF27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

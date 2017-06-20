@@ -4,3 +4,9 @@ C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_Structs\bi
 C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_Structs\bin\Debug\0.17_Structs.pdb
 C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.exe
 C:\Users\Ben\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.17_Structs\bin\Debug\0.17_Structs.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.17_Structs\bin\Debug\0.17_Structs.exe
+C:\Users\Ben\dev\CSharpLibrary\0.17_Structs\bin\Debug\0.17_Structs.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.exe
+C:\Users\Ben\dev\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.pdb

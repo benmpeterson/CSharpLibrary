@@ -4,3 +4,9 @@ c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\bi
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.csprojResolveAssemblyReference.cache
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.exe
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.exe
+C:\Users\Ben\dev\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.pdb

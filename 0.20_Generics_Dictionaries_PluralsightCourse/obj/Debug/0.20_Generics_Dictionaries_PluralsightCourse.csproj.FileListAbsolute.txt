@@ -1,0 +1,6 @@
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_Dictionaries_PluralsightCourse\bin\Debug\0.20_Generics_Dictionaries_PluralsightCourse.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_Dictionaries_PluralsightCourse\bin\Debug\0.20_Generics_Dictionaries_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_Dictionaries_PluralsightCourse\bin\Debug\0.20_Generics_Dictionaries_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_Dictionaries_PluralsightCourse\obj\Debug\0.20_Generics_Dictionaries_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_Dictionaries_PluralsightCourse\obj\Debug\0.20_Generics_Dictionaries_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.20_Generics_Dictionaries_PluralsightCourse\obj\Debug\0.20_Generics_Dictionaries_PluralsightCourse.csprojResolveAssemblyReference.cache

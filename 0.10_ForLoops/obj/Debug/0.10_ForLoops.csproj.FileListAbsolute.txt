@@ -4,3 +4,9 @@ C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForLoops\b
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.csprojResolveAssemblyReference.cache
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.exe
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.10_ForLoops\bin\Debug\0.10_ForLoops.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.10_ForLoops\bin\Debug\0.10_ForLoops.exe
+C:\Users\Ben\dev\CSharpLibrary\0.10_ForLoops\bin\Debug\0.10_ForLoops.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.exe
+C:\Users\Ben\dev\CSharpLibrary\0.10_ForLoops\obj\Debug\0.10_ForLoops.pdb

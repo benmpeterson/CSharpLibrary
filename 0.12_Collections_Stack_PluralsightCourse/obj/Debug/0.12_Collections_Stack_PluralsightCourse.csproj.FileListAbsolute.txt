@@ -3,3 +3,8 @@ C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collection
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_Stack_PluralsightCourse\bin\Debug\0.12_Collections_Stack_PluralsightCourse.pdb
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_Stack_PluralsightCourse\obj\Debug\0.12_Collections_Stack_PluralsightCourse.exe
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.12_Collections_Stack_PluralsightCourse\obj\Debug\0.12_Collections_Stack_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Stack_PluralsightCourse\bin\Debug\0.12_Collections_Stack_PluralsightCourse.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Stack_PluralsightCourse\bin\Debug\0.12_Collections_Stack_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Stack_PluralsightCourse\bin\Debug\0.12_Collections_Stack_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Stack_PluralsightCourse\obj\Debug\0.12_Collections_Stack_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.12_Collections_Stack_PluralsightCourse\obj\Debug\0.12_Collections_Stack_PluralsightCourse.pdb

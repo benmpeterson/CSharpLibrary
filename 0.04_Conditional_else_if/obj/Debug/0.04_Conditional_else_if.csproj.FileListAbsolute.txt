@@ -4,3 +4,9 @@ c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditiona
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_else_if\obj\Debug\0.04_Conditional_else_if.csprojResolveAssemblyReference.cache
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_else_if\obj\Debug\0.04_Conditional_else_if.exe
 c:\users\ben\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional_else_if\obj\Debug\0.04_Conditional_else_if.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditional_else_if\bin\Debug\0.04_Conditional_else_if.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditional_else_if\bin\Debug\0.04_Conditional_else_if.exe
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditional_else_if\bin\Debug\0.04_Conditional_else_if.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditional_else_if\obj\Debug\0.04_Conditional_else_if.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditional_else_if\obj\Debug\0.04_Conditional_else_if.exe
+C:\Users\Ben\dev\CSharpLibrary\0.04_Conditional_else_if\obj\Debug\0.04_Conditional_else_if.pdb

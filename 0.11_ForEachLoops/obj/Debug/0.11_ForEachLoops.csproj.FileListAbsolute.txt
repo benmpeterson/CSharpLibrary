@@ -4,3 +4,9 @@ C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.11_ForEachLoo
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.11_ForEachLoops\obj\Debug\0.11_ForEachLoops.csprojResolveAssemblyReference.cache
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.11_ForEachLoops\obj\Debug\0.11_ForEachLoops.exe
 C:\Users\Ben\documents\visual studio 2017\Projects\CSharpLibrary\0.11_ForEachLoops\obj\Debug\0.11_ForEachLoops.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.11_ForEachLoops\bin\Debug\0.11_ForEachLoops.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.11_ForEachLoops\bin\Debug\0.11_ForEachLoops.exe
+C:\Users\Ben\dev\CSharpLibrary\0.11_ForEachLoops\bin\Debug\0.11_ForEachLoops.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.11_ForEachLoops\obj\Debug\0.11_ForEachLoops.csprojResolveAssemblyReference.cache
+C:\Users\Ben\dev\CSharpLibrary\0.11_ForEachLoops\obj\Debug\0.11_ForEachLoops.exe
+C:\Users\Ben\dev\CSharpLibrary\0.11_ForEachLoops\obj\Debug\0.11_ForEachLoops.pdb
