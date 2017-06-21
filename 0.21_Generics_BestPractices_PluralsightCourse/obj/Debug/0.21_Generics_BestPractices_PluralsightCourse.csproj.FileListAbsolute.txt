@@ -1,0 +1,5 @@
+C:\Users\Ben\dev\CSharpLibrary\0.21_Generics_BestPractices_PluralsightCourse\bin\Debug\0.21_Generics_BestPractices_PluralsightCourse.exe.config
+C:\Users\Ben\dev\CSharpLibrary\0.21_Generics_BestPractices_PluralsightCourse\bin\Debug\0.21_Generics_BestPractices_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.21_Generics_BestPractices_PluralsightCourse\bin\Debug\0.21_Generics_BestPractices_PluralsightCourse.pdb
+C:\Users\Ben\dev\CSharpLibrary\0.21_Generics_BestPractices_PluralsightCourse\obj\Debug\0.21_Generics_BestPractices_PluralsightCourse.exe
+C:\Users\Ben\dev\CSharpLibrary\0.21_Generics_BestPractices_PluralsightCourse\obj\Debug\0.21_Generics_BestPractices_PluralsightCourse.pdb

@@ -4,6 +4,8 @@ using System.Collections.Generic;
 
 namespace CollectIt
 {
+    //This is a great example of how to abstract a generic heavy file to clean up final business code
+
     public class EmployeeComparer : IEqualityComparer<Employee>,
                                     IComparer<Employee>
     {
